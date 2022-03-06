@@ -8,7 +8,7 @@ class SamplePage0 extends StatelessWidget{
   Widget build(BuildContext context){
     return Scaffold(
       appBar:AppBar(
-        title:const Text('Title1'),
+        title:const Text('Page0'),
       ),
       body: Center(
         child: Column(
